@@ -27,3 +27,4 @@ brew 'wget'
 
 cask 'google-chrome'
 cask 'slack'
+cask 'atom'
