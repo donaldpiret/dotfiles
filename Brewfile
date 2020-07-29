@@ -21,6 +21,7 @@ brew 'ruby-build'
 brew 'roundup'
 brew 'spaceman-diff'
 brew 'spark'
+brew 'tfenv'
 brew 'unrar'
 brew 'wget'
 
