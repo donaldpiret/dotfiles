@@ -21,7 +21,7 @@ brew 'ruby-build'
 brew 'roundup'
 brew 'spaceman-diff'
 brew 'spark'
-brew 'terragrunt'
+brew 'terragrunt', args: ['ignore_dependencies'] 
 brew 'tfenv'
 brew 'unrar'
 brew 'wget'
