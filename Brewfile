@@ -26,6 +26,7 @@ brew 'terragrunt', args: ['ignore_dependencies']
 brew 'tfenv'
 brew 'unrar'
 brew 'wget'
+brew 'yarn'
 
 cask 'google-chrome'
 cask 'slack'
