@@ -33,3 +33,4 @@ cask 'google-chrome'
 cask 'slack'
 cask 'atom'
 cask 'jetbrains-toolbox'
+cask 'docker' # Docker Desktop
